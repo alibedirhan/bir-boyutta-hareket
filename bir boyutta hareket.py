@@ -17,5 +17,3 @@ plot(t,v,"k--")
 xlabel("t")
 ylabel("y= sin x ve y = cos x")
 show()
-
-print ("ali")
